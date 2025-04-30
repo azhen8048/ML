@@ -21,7 +21,7 @@ feature_ranges = {
 }
 
 # Streamlit 界面
-st.title("Prediction Model with SHAP Visualization")
+st.title("LYC's Prediction Model")
 
 # 动态生成输入项
 st.header("Enter the following feature values:")
